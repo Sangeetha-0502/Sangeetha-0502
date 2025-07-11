@@ -20,9 +20,9 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/psangeetha052?theme=dark&font=Source%20Code%20Pro&ext=heatmap)
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangeetha05/) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:psangeetha052@gmail.com)
+## 🌐 Connect With Me Here:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangeetha05/)</br>
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:psangeetha052@gmail.com)</br>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
